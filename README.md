@@ -13,7 +13,7 @@ To run this app locally, you need to set up a Python environment and install the
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/image-segmentation-app.git
+    git clone https://github.com/sujal-maheshwari2004/Multi-class-image-segmentation.git
     cd image-segmentation-app
     ```
 
